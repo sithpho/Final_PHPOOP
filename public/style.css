@@ -1,0 +1,20 @@
+.card{
+    background-image: url("background.jpg");
+    box-shadow: 10px 9px 2px grey,
+    10px 9px 3px grey ,
+    10px 9px 4px grey,
+    10px 9px 5px grey;
+   
+}
+.card-body{
+    background-image: url("background.jpg");
+}
+h1{
+    color:white;
+    text-align: center;
+    padding: 15px 0px;
+    background-image: url("background.jpg");
+}
+label{
+    color:white;
+}
